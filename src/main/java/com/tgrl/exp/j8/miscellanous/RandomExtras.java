@@ -1,7 +1,7 @@
 package com.tgrl.exp.j8.miscellanous;
 
 /**
- * The <code>java.util.Random</code> class does this for you with the following new methods: ints(),
+ * The <code>java.util.Random</code> class has the following new methods: ints(),
  * longs(), and doubles(). Each of those methods is overloaded with definitions similar to the
  * following:<br/>
  * 
