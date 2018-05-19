@@ -2,7 +2,9 @@
 ##  Tuples? What are tuples?  ##
 ################################
 
-A tuple is just a sequence of objects that do not necessarily relate to each other in any way. For example: [23, "Saturn", java.sql.Connection@li734s] can be considered a tuple of three elements (a triplet) containing an Integer, a String, and a JDBC Connection object. As simple as that.
+A tuple is just a sequence of objects that do not necessarily relate to each other in any way. 
+For example: [23, "Saturn", java.sql.Connection@li734s] can be considered a tuple of three elements (a triplet) containing an Integer, 
+a String, and a JDBC Connection object. As simple as that.
 
 Very probably, you've already written tuple classes for some of your projects, like:
 
